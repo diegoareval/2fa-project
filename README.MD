@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/mixed-1-1/200/Untitled-9-512.png" height="124px">
+  <img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" height="124px">
   <h1 align="center">Two Factor Authentication</h1>
   <p align="center">
     <b> 💶 2FA using React js - Webpack and Node JS</b>
